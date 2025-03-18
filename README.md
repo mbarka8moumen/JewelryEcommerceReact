@@ -76,4 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![image alt](https://github.com/mbarka8moumen/JewelryEcommerceReact/blob/5a70052acf45c8792ba990a0fd93a520bb2a8cf0/image%20(2).png)
 
-![image alt]
+![image alt](https://github.com/mbarka8moumen/JewelryEcommerceReact/blob/47803430eba6cbad553985d88c58683623d18a3b/image%20(3).png)
